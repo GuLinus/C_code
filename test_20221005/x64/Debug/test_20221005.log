@@ -1,0 +1,3 @@
+﻿  test.c
+E:\C_code\test_20221005\test_20221005\test.c(204,1): warning C4090: “初始化”: 不同的“const”限定符
+  test_20221005.vcxproj -> E:\C_code\test_20221005\x64\Debug\test_20221005.exe
